@@ -20,12 +20,20 @@
 if [ "$1" == "start" ]
 then
   ./manage_my_process &
+<<<<<<< HEAD
   echo $$ > /var/run/my_process.pid
+=======
+    echo $$ > /var/run/my_process.pid
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
   echo "manage_my_process started"
 
 elif [ "$1" == "stop" ]
 then
+<<<<<<< HEAD
   kill "$(pgrep -f /manage_my_process)" 
+=======
+  kill "$(pgrep -f /manage_my_process)"
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
   rm /var/run/my_process.pid
   echo "manage_my_process stopped"
 

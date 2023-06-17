@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tr A Z | tr c e
+=======
+tr Ac Ze
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

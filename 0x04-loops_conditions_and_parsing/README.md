@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loops, conditions and parsing
 
 In this project, I began working loops and conditionals statemetns in Bash.
@@ -103,3 +104,6 @@ tasks `102` and `103`.
   `OCCURRENCE_NUMBER IP HTTP_CODE`.
   * Logs are grouped in order of greatest to lowest number of visitors.
   * Uses `awk`.
+=======
+Loops & parsing
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

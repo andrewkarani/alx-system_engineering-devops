@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell, basics
 
 In this project, I underwent an introductory crash course in the Shell. I
@@ -92,3 +93,7 @@ creating links, and using keyboard shortcuts in Bash.
 * **19. File type: Holberton**
   * [holberton.mgc](./holberton.mgc): A magic file that can be used with the command `file` to
   detect `Holberton` data files.
+=======
+a non empty readme
+
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

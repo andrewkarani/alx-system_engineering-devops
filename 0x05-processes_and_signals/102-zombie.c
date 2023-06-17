@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 /*
  * File: 102-zombie.c
  * Auth: Brennan D Baraban
  */
 
+=======
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

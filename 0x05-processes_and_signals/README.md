@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Processes and signals
 
 In this project, I learned about handling process ID's and signals in Bash
@@ -79,3 +80,6 @@ with `ps`, `pgrep`, `pkill`, `pkill`, `exit`, and `trap`.
   * [102-zombie.c](./102-zombie.c): C program that creates five zombie processes.
   * For every zombie created, displays `Zombie process created, PID:
   <ZOMBIE_PID>`.
+=======
+processes and signals
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

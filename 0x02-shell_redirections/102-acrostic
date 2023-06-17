@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo $(cut -b 1 | tr -d '\n')
+=======
+cut -c l | tr -d '\n' |sort
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

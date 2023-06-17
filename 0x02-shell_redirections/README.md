@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell, I/O Redirections and filters
 
 In this project, I learned about using the `head`, `tail`, `find`, `wc`, `sort`,
@@ -124,3 +125,6 @@ work and how to filter text from files.
   server logs in TSV format as input and displays the 11 hosts or IP addresses
   which did the most requests.
   * Ordered by number of requests, with most active hosts or IP's at the top.
+=======
+0x02. Shell, I/O Redirections and filters
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

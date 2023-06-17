@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # Displays "Holberton School" 10 times using a while loop.
 #   On the 9th iteration, displays "Hi" before "Holberton School".
+=======
+# Displays "Best School" 10 times using a while loop.
+#   On the 9th iteration, displays "Hi" before "best School".
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
 
 count=0
 
@@ -10,6 +15,10 @@ do
   then
     echo "Hi"
   fi
+<<<<<<< HEAD
   echo "Holberton School"
+=======
+  echo "Best School"
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
   (( count++ ))
 done

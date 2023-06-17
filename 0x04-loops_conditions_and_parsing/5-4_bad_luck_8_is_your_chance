@@ -2,7 +2,11 @@
 # Loops from 1 to 10 and displays:
 #   "bad luck" for the 4th iteration
 #   "good luck" for the 8th iteration
+<<<<<<< HEAD
 #   "Holberton School" for all other iterations
+=======
+#   "Best School" for all other iterations
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
 
 count=0
 
@@ -15,7 +19,11 @@ do
   then
     echo "good luck"
   else
+<<<<<<< HEAD
     echo "Holberton School"
+=======
+    echo "Best School"
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
   fi
   (( count++ ))
 done

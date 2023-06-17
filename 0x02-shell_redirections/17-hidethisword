@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 grep -v bin /etc/passwd
+=======
+grep iv bin /etc/passwd
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

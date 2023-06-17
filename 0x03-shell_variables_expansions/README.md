@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell, init files, variables and expansions
 
 In this project, I learned about initialization files, local, global, and
@@ -79,3 +80,6 @@ using expansions, performing arithmetic operations, and utilizing aliases.
   stored in the environment variables `WATER` and `STIR` and prints the result.
   * `WATER` is in base `water`, `STIR` is in base `stir`, and the result is
   in base `behlnort`.
+=======
+0x03-shell_variables_expansions
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117

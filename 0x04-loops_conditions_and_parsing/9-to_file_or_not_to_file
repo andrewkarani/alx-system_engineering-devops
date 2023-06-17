@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # Displays information about the file `holbertonschool`.
 
 if [ -e "holbertonschool" ]
@@ -17,4 +18,24 @@ then
   fi
 else
   echo "holbertonschool file does not exist"
+=======
+# Displays information about the file `Bestschool`.
+
+if [ -e "Bestschool" ]
+then
+  echo "Bestschool file exists"
+  if [ -s "Bestschool" ]
+  then
+    echo "Bestschool file is not empty"
+  else
+    echo "Bestschool file is empty"
+  fi
+
+  if [ -f "Bestschool" ]
+  then
+    echo "Bestschool is a regular file"
+  fi
+else
+  echo "Bestschool file does not exist"
+>>>>>>> d9b3139910a8cfc80a11eee9cdb815ae006a7117
 fi
